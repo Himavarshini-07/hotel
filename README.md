@@ -1,3 +1,5 @@
+![image-alt](https://github.com/Himavarshini-07/hotel/blob/main/ChatGPT%20Image%20Jun%2018,%202026,%2010_54_05%20PM.png?raw=true)
+
 <<<<<<< HEAD
 # React + Vite
 
